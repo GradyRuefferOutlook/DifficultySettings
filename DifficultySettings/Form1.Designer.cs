@@ -80,9 +80,9 @@
             this.easyButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.easyButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.easyButton.ForeColor = System.Drawing.Color.White;
-            this.easyButton.Location = new System.Drawing.Point(17, 263);
+            this.easyButton.Location = new System.Drawing.Point(26, 241);
             this.easyButton.Name = "easyButton";
-            this.easyButton.Size = new System.Drawing.Size(118, 62);
+            this.easyButton.Size = new System.Drawing.Size(160, 106);
             this.easyButton.TabIndex = 3;
             this.easyButton.Text = "Easy";
             this.easyButton.UseVisualStyleBackColor = false;
@@ -96,9 +96,9 @@
             this.normalButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.normalButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.normalButton.ForeColor = System.Drawing.Color.White;
-            this.normalButton.Location = new System.Drawing.Point(214, 144);
+            this.normalButton.Location = new System.Drawing.Point(192, 151);
             this.normalButton.Name = "normalButton";
-            this.normalButton.Size = new System.Drawing.Size(118, 62);
+            this.normalButton.Size = new System.Drawing.Size(160, 106);
             this.normalButton.TabIndex = 4;
             this.normalButton.Text = "Normal";
             this.normalButton.UseVisualStyleBackColor = false;
@@ -112,9 +112,9 @@
             this.hardButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.hardButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.hardButton.ForeColor = System.Drawing.Color.White;
-            this.hardButton.Location = new System.Drawing.Point(404, 263);
+            this.hardButton.Location = new System.Drawing.Point(362, 241);
             this.hardButton.Name = "hardButton";
-            this.hardButton.Size = new System.Drawing.Size(118, 62);
+            this.hardButton.Size = new System.Drawing.Size(160, 106);
             this.hardButton.TabIndex = 5;
             this.hardButton.Text = "Hard";
             this.hardButton.UseVisualStyleBackColor = false;
@@ -128,9 +128,9 @@
             this.masterButton.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.masterButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.masterButton.ForeColor = System.Drawing.Color.White;
-            this.masterButton.Location = new System.Drawing.Point(214, 393);
+            this.masterButton.Location = new System.Drawing.Point(192, 331);
             this.masterButton.Name = "masterButton";
-            this.masterButton.Size = new System.Drawing.Size(118, 62);
+            this.masterButton.Size = new System.Drawing.Size(160, 106);
             this.masterButton.TabIndex = 6;
             this.masterButton.Text = "Master";
             this.masterButton.UseVisualStyleBackColor = false;
